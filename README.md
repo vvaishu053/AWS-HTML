@@ -1,1 +1,1 @@
-# simple_html_file
+# simple html page
